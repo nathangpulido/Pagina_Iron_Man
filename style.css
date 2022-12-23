@@ -136,3 +136,25 @@ body {
     display: block;
     margin: 0 auto;
 }
+
+@media screen and (max-width : 390px) {
+    .conteudo-principal-escrito-titulo {
+        padding: 30px;
+    }
+    
+    .conteudo-principal-escrito-subtitulo {
+        display: none;
+    }
+
+    .conteudo-principal-escrito-botao {
+        display: none;
+    }
+
+    .cabecalho-menu {
+        gap: 20px;
+    }
+
+    .conteudo-secundario {
+        padding: 20px;
+    }
+}
