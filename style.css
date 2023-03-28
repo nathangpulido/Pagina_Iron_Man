@@ -11,6 +11,7 @@
 body {
     font-size: 100%;
     background: linear-gradient(to bottom, #A9A9A9, #4F4F4F );
+    height:100vh;
 }
 
 .cabecalho{
